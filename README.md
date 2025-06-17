@@ -14,12 +14,12 @@ Pythorius menemukan peta kuno yang membawanya ke gerbang dunia pemrograman Pytho
 **Struktur Folder**
 ```bash
 chapter-1/
-├── 1_expression.py
-├── 2_function.py
-├── 3_conditional.py
-├── 4_looping_for.py
-├── 4_looping_while.py
-├── 4_looping_nested.py
+├── expression.py
+├── function.py
+├── conditional.py
+├── looping_for.py
+├── looping_while.py
+├── looping_nested.py
 └── README.md
 ```
 ---
@@ -30,10 +30,10 @@ Pythorius berada di lembah misterius di mana waktu berulang. Ia belajar while lo
 **Struktur Folder**
 ```bash
 chapter-2/
-├── 1_while_loop.py
-├── 2_for_loop.py
-├── 3_recursion_countdown.py
-├── 3_recursion_factorial.py
+├── while_loop.py
+├── for_loop.py
+├── recursion_countdown.py
+├── recursion_factorial.py
 └── README.md
 ```
 ---
@@ -44,10 +44,10 @@ Pythorius tiba di kuil kuno dan belajar memahami struktur data: string, list, di
 **Struktur Folder**
 ```bash
 chapter-3/
-├── 1_string_list.py
-├── 2_dictionary.py
-├── 3_oop_intro.py
-├── 4_oop_pewarisan.py
+├── string_list.py
+├── dictionary.py
+├── oop_intro.py
+├── oop_pewarisan.py
 └── README.md
 ```
 ---
