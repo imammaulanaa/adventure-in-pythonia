@@ -100,6 +100,7 @@ Pythorius tiba di sebuah gerbang rahasia yang dijaga oleh para penjaga dunia dig
 ```bash
 chapter-7/
 └── api_server.py
+└── README.md
 ```
 ---
 ##  chapter 8 – Benteng Keamanan dan Penjaga Validasi
@@ -113,6 +114,7 @@ Pythorius tiba di Benteng Keamanan, tempat di mana hanya mantra yang sah dan val
 chapter-8/
 ├── validation_inventory.py
 └── validation.py
+└── README.md
 ```
 ---
 ##  chapter 9 – Puncak Petualangan dan Sistem Manajemen Petualang
@@ -128,6 +130,7 @@ chapter-9/
 ├── file_manager.py
 ├── utils.py
 ├── main.py
+└── README.md
 └── data/
     ├── petualang_data.json
     └── petualang_log.txt
